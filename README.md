@@ -1,0 +1,2 @@
+# Ahmed Ali Portfolio
+Open index.html in a browser or deploy this folder to Netlify as a static site (no build command). Edit index.html for personal details, app.js for skills, style.css for styling. The contact form is a front-end demo and does not send messages. Add your real contact information and connect a form service before publishing. The Alberto project button links to the supplied live Netlify website. No external assets or libraries are required.
